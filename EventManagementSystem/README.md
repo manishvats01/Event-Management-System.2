@@ -52,5 +52,4 @@ This project fulfills all the requirements of Review 2 by implementing core feat
 
 ---
 
-## Author
-Developed for academic submission under GUVI Hackathon.
+
